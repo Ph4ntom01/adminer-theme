@@ -1,9 +1,14 @@
-Adminer Theme
-=====================
+# Adminer Theme
 
-Adminer css theme for the mysql admin.
+####   Tables and views
 
-![2016-08-12 14 02 18](https://cloud.githubusercontent.com/assets/2996841/17620587/097c6d24-6096-11e6-9861-274b7ab7f50d.png)
+![](https://raw.githubusercontent.com/Ph4ntom01/adminer-theme/master/tables_and_views1.png)
 
-### Installation
-Copy adminer.css to the folder where adminer.php is located.
+####  Select table
+
+![](https://raw.githubusercontent.com/Ph4ntom01/adminer-theme/master/select_table.png)
+
+
+## Installation
+
+Just put the file [adminer.css](https://github.com/Ph4ntom01/adminer-theme/blob/master/adminer.css) alongside adminer.php.
